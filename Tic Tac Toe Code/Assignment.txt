@@ -1,0 +1,11 @@
+The basic display code (shown in class) is here: tictactoe.cpp
+
+In no particular order, add the following functionality:
+
+convert into a C++ class
+allow the user to enter a "row col" on the console (keyboard) and redraw the screen
+add a computer player that
+    allows the user to go first
+    always goes for the win, if available in one move
+  always blocks the user if they are about to win in the next move
+comment the code :-)
