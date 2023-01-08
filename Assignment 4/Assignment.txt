@@ -1,0 +1,25 @@
+Implement two of the three sorting algorithms below using the filenames provide (please do not rename file or use cout/cin statements in your solution).
+
+select.cpp
+bubble.cpp
+quicksort.cpp
+
+All three have the same driver program (you just un-comment the routine you want to call).
+
+asgmt4.cpp
+
+Please upload two of the sort files (select.cpp, bubble.cpp, quicksort.cpp). No extra credit for you overachievers!  But one of them is more difficult than the other two.  Be sure to check that you have uploaded the correct files.
+
+A couple of notes:
+
+These files are different from the ones we worked out in class.  (I was sorting int's in the class, this is sorting strings; the datatypes have been fixed in the templates.)
+
+To run an assignment, compile asgmt4.cpp with the appropriate sorting routine and then run from the command line like this:
+
+	asgmt4 test1.txt
+	where test1.txt is a data file with one record/word per line.
+	
+Here are some sample input files: test4-1.txt and test4-2.txt
+
+And the corresponding output:  sampleoutput4.txt
+

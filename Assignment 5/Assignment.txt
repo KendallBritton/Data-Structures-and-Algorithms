@@ -1,0 +1,22 @@
+Combine the sorting assignment in Assignment #4 with the Control Break problem described in class to make a complete solution.  Provided is just the first version control break (cbreak0-1.cpp) that performs the bare minimum output.  For this assignment, you will have responsibility to provide everything.
+
+Using the I/O routines (read/write) and (any) of the sort routines as a guide, create a single program that reads in an unordered list of bookentry elements into a sufficiently large enough array.
+
+Use the command line (like Assignment #4) to specify the input file.
+
+Use one of your sort routines (that you wrote and submitted to Assignment #4) to put the bookentry records in sorted order by the item.
+
+Call your control break function to produce a report with the appropriate control breaks (subtotals and grand total) on the standard output.
+
+Use the timing routines describe in the Tip-of-the-Day (3-31) to time:
+	time it takes to perform the sort
+	time it takes to produce the control break report <- skip this! too short to measure
+	the overall time it takes to run the application
+	
+In addition to the program files, also include a report (in PDF) that
+
+	Describes how to compile your program and run it.
+	Any test files you would like to share that demonstrates your program.
+	And an analysis (Big-Oh) of the the two main components of your application (sorting and 		reporting).
+	
+On this assignment, you have the freedom to use your own names for files but you need to include instructions on how to compile your program.  As in assignment #4, you need to get the input file from the command line.
