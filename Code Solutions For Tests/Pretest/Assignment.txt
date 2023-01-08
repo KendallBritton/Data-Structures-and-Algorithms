@@ -1,0 +1,17 @@
+This is a practice pretest. 
+
+Download the following files - 
+
+pretest_main.cpp
+
+pretest_yoursoln.cpp
+
+Write the code for the function removeStopWords() in the second file, that returns a vector<string> with stop words removed from the original. 
+
+Using Linux, the command line to compile is 
+
+g++ -g -std=c++11 -o test pretest_main.cpp pretest_yoursoln.cpp
+
+On the exam, you will be uploading only the second file (practice_yoursoln.cpp)
+
+Important: Please do not include any cout or cin statements in your code.  Any extraneous input/output will cause the grading script to fail resulting in zero points! 

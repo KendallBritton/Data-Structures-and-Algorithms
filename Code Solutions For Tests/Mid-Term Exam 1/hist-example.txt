@@ -1,0 +1,12 @@
+nag2> ./hist 
+Grade: 0 Count: 0
+Grade: 1 Count: 0
+Grade: 2 Count: 0
+Grade: 3 Count: 1
+Grade: 4 Count: 0
+Grade: 5 Count: 2
+Grade: 6 Count: 2
+Grade: 7 Count: 1
+Grade: 8 Count: 4
+Grade: 9 Count: 1
+Grade: 10 Count: 2

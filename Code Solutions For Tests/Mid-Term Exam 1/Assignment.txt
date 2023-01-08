@@ -1,0 +1,9 @@
+Problem 1.
+
+Draw a trapezoid with asterisks.  The trapezoid has a triangle on top,  a square, and a triangle on the bottom.  The size is input from the standard input (cin).  Note the angles in the sample output. 
+
+Problem 2.
+
+For this problem, you need to compile a histogram of grades.  The input grade data is hard-coded in the template file (the global variable int data ).  Use this template code to start with.  The output should look like this.
+
+In both cases, don't add any additional cout's except those required to produce the desired output; i.e. remove any debugging code you have added.

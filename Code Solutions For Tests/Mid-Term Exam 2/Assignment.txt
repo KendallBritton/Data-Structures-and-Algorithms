@@ -1,0 +1,72 @@
+Problem 1.
+
+The standard deviation of a vector x is computed by this formula:
+
+	*Photo of formula in folder*
+	
+Using this page, download the stddev.cpp file as a template, complete the C++ program to read in the values and calculate the mean and standard deviation.
+
+Upload your code below.
+
+
+
+Problem 2.
+
+Floyd's algorithm creates a triangle with one number (1) on the first line, two numbers on the second line (2 and 3), and then three numbers on the next (4, 5, and 6) and so on. In all cases, the numbers keep increasing across the lines.
+
+So, for example if the input is 6, the output would be:
+
+nag2> ./floyd 6
+    1
+    2    3
+    4    5    6
+ 
+
+Each column is five columns wide and my solution completes the whole line even if the input was less than the last number on the line. But you can do a hard stop in the middle of a line.
+
+Note the input comes from the command line.
+
+Here are two more examples:
+
+nag2> ./floyd 10
+    1
+    2    3
+    4    5    6
+    7    8    9   10
+nag2> ./floyd 15
+    1
+    2    3
+    4    5    6
+    7    8    9   10
+   11   12   13   14   15
+nag2> ./floyd 21
+    1
+    2    3
+    4    5    6
+    7    8    9   10
+   11   12   13   14   15
+   16   17   18   19   20   21
+   
+Again, go to the download page to get the floyd.cpp template.
+
+Upload your code below.
+
+
+
+Problem 3.
+
+In this problem, you are given a sorted array of integers in the main() function.  You are to write a function that removes the duplicates.  As quick example if the array of numbers was
+
+1, 2, 3, 3, 3, 4, 5, 5, 6
+
+the new array is
+
+1, 2, 3, 4, 5, 6
+
+(The duplicate 3's were reduced to just one 3, the 5's were reduced to just one 5.)
+
+The input and output are in the same array.  The function takes the original length of the array (9 elements) as input and the new length (6 elements) as output.
+
+Again, go to the download page to get a template solution.
+
+Upload your file below.

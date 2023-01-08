@@ -1,0 +1,60 @@
+Problem 1.
+
+The quadratic equation is used to find the roots of a 2nd degree polynomial:
+
+	*Photo is available in folder*
+	
+Under the square root (b^2 - 4ac) is called the discriminant. When the value of the discriminant is greater than zero, there are two real solutions.  When the discriminant is zero, there is one unique root.  If it is negative, then there are no real roots for this polynomial.
+
+Write a C++ program that reads a, b, and c from the standard input (console).  Calculate the discriminant and output one of three responses:
+
+	"There are two real roots for this equation."
+	"There is exactly one real roots for this equation."
+	"There are no real roots for this equation."
+	
+Name your C++ code:  disc.cpp
+
+
+
+Problem 2.
+
+Write a C++ program that will produce the following graphic.  It is a 11x11 matrix of characters.  Every cell is a space except for:
+
+	the center cell (5,5) displays a plus ("+")
+	the middle row (y=5) is a dash ("-") except for center cell
+	the middle column  (x=5) is a vertical bar  ("|") except for center cell
+	
+So the output would look like this:
+
+ 
+
+     |     
+     |     
+     |     
+     |     
+     |     
+-----+-----
+     |     
+     |     
+     |     
+     |   
+     |     
+     
+     
+There is no input for this problem, only output.  However, do not take simple approach of hardcoding line-by-line the solution.  Assume that the next iteration of the problem might include a 21x21 square or a 101x101 square.
+
+Name your C++ code:  plus.cpp
+
+
+
+Problem 3.
+
+A variation on the recursive definition of n factorial is the two factorial.  It is defined by
+
+	*Photo is available in folder*
+	
+Write a recursive function that will compute the first five values of n'! (n=0, n=1, ....)
+
+Again, there is no input, just output the five lines.  Again, assume that n could change so your code should work for n=6, n=7, etc...
+
+Name your C++ code:  twofact.cpp
